@@ -136,6 +136,6 @@ See [Code of Conduct](./CODE_OF_CONDUCT.md), [Contributing](./CONTRIBUTING.md), 
 
 ## License
 
-MIT License © 2022–2024 [Zsolt Tövis](https://github.com/toviszsolt)
+MIT License © 2026 [Zsolt Tövis](https://github.com/toviszsolt)
 
 If you find this project useful, please consider [sponsoring me on GitHub](https://github.com/sponsors/toviszsolt), [PayPal](https://www.paypal.com/paypalme/toviszsolt), or [give the repo a star](https://github.com/toviszsolt/clsx-react).
