@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "target": "esnext",
+    "module": "nodenext",
+    "moduleResolution": "nodenext",
+    "resolveJsonModule": true,
+    "checkJs": true,
+    "jsx": "react-jsx"
+  },
+  "exclude": ["node_modules", "dist", "coverage"]
+}
