@@ -1,6 +1,6 @@
 {
   "name": "clsx-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom React JSX Runtime to support arrays and objects in className prop natively.",
   "keywords": [
     "react",
